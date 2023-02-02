@@ -69,9 +69,9 @@ Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">Ni
 
 ## ```CONTAC US WHATSAPP```
 
- <p><a href="wa.me/94716315866" target="blank">Malik Abhishek [Me]</a></p>
- <p><a href="wa.me/94755228896" target="blank">Music Nooo [My Bot Number]</a></p>
- <p><a href="wa.me/94774564941" target="blank">Nimesh [My Best Frend}</a></p>
+ <p><a href="malikabhishek2824@gmail.com" target="blank">Malik Abhishek Gmail[Me]</a></p>
+ <p><a href="musicabnoob28@gmail.com" target="blank">Music Nooo [My Bot Number]</a></p>
+
  
  
 
