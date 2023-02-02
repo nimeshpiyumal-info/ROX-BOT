@@ -10,7 +10,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 </p>
 
 <p align="center">
-Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot  href="https://github.com/nimaofficial/Black-Dragon" target="_blank">Black Dragon</a>
+Big thanks❤️ to <a href="https://github.com/nimaofficial" target="_blank">NimaOfficial</a> for huge contribution, Check out his bot <a href="https://github.com/nimaofficial/Black-Dragon" target="_blank">Black Dragon</a>
 </p>
 
 ---
